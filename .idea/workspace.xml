@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bebb399-5f47-4f92-842d-52277ca33591" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YsHPjJUunLWU3ihmwXDA7ToLpD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.DateTimeClass">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.achais.basic.Array" />
+      <module name="learn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.achais.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharacterClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.achais.basic.CharacterClass" />
+      <module name="learn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.achais.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateTimeClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.achais.basic.DateTimeClass" />
+      <module name="learn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.achais.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBufferClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.achais.basic.StringBufferClass" />
+      <module name="learn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.achais.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.achais.basic.StringClass" />
+      <module name="learn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.achais.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DateTimeClass" />
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.StringBufferClass" />
+        <item itemvalue="Application.StringClass" />
+        <item itemvalue="Application.CharacterClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bebb399-5f47-4f92-842d-52277ca33591" name="Default Changelist" comment="" />
+      <created>1583724359780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583724359780</updated>
+      <workItem from="1583724361252" duration="8356000" />
+      <workItem from="1583817850404" duration="12422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="330" y="91" key="#Notifications" timestamp="1583724379802">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="330" y="91" key="#Notifications/0.0.1474.864/-1920.-250.1858.1080@0.0.1474.864" timestamp="1583724379802" />
+    <state x="330" y="91" key="#Project_Structure" timestamp="1583724413432">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="330" y="91" key="#Project_Structure/0.0.1474.864/-1920.-250.1858.1080@0.0.1474.864" timestamp="1583724413432" />
+    <state x="492" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583822560775">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="492" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1474.864/-1920.-250.1858.1080@0.0.1474.864" timestamp="1583822560775" />
+    <state width="1475" height="245" key="GridCell.Tab.0.bottom" timestamp="1583831162990">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1475" height="245" key="GridCell.Tab.0.bottom/0.0.1474.864/-1920.-250.1858.1080@0.0.1474.864" timestamp="1583831162990" />
+    <state width="1475" height="245" key="GridCell.Tab.0.center" timestamp="1583831162990">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1475" height="245" key="GridCell.Tab.0.center/0.0.1474.864/-1920.-250.1858.1080@0.0.1474.864" timestamp="1583831162990" />
+    <state width="1475" height="245" key="GridCell.Tab.0.left" timestamp="1583831162990">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1475" height="245" key="GridCell.Tab.0.left/0.0.1474.864/-1920.-250.1858.1080@0.0.1474.864" timestamp="1583831162990" />
+    <state width="1475" height="245" key="GridCell.Tab.0.right" timestamp="1583831162990">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1475" height="245" key="GridCell.Tab.0.right/0.0.1474.864/-1920.-250.1858.1080@0.0.1474.864" timestamp="1583831162990" />
+    <state x="346" y="132" width="782" height="600" key="find.popup" timestamp="1583822673710">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="346" y="132" width="782" height="600" key="find.popup/0.0.1474.864/-1920.-250.1858.1080@0.0.1474.864" timestamp="1583822673710" />
+  </component>
+</project>
